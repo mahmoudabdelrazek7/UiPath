@@ -1,0 +1,1 @@
+"C:\Users\com\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --file "D:\UiPath Course\Maids_Assessment.1.0.2.nupkg"
